@@ -1,0 +1,12 @@
+{
+  "name": "react-interview-q1",
+  "version": "1.0.0",
+  "description": "offline react base exercise",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
